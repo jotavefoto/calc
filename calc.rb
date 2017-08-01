@@ -6,4 +6,4 @@ def power(b, e)
     r
 end
 
-puts power(2, 5)
+puts power(2, 8)
